@@ -20,7 +20,7 @@ The official OS for for the Scoot Box
 ## Authors
 
 - [@LiveLuckyPug](https://github.com/LiveLuckyPug)
--s
+- [@Evan-Nel](https://github.com/Evan-nel)
 
 
 ## Feedback
